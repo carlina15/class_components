@@ -8,8 +8,8 @@ function App() {
 
   return (
     <div>
-      <PrvaKomponenta></PrvaKomponenta>
-      <DrugaKomponenta></DrugaKomponenta>
+      <PrvaKomponenta />
+      <DrugaKomponenta />
     </div>
   )
 }
