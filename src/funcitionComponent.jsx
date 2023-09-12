@@ -8,6 +8,6 @@ function functionComponent(props) {
             <p>Age: {props.age}</p>
         </div>
     );
-}
+    }
 
 export default functionComponent;
