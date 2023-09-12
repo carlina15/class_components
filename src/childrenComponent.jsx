@@ -9,6 +9,7 @@ function childrenComponent(props) {
             <div>{props.children}</div>
         </div>
     );
+
 }
 
 export default childrenComponent;
